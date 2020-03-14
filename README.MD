@@ -1,4 +1,4 @@
-#create a site
+# create a site
 
 pipenv shell
 
@@ -16,7 +16,7 @@ python manage.py createsuperuser
 
 python manage.py runserver
 
-###follow 
+### follow 
 https://pypi.org/project/django-cors-headers/
 
 
