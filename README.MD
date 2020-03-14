@@ -20,7 +20,7 @@ python manage.py runserver
 https://pypi.org/project/django-cors-headers/
 
 
-#Starting site
+# Starting site
 
 pipenv shell
 
